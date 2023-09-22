@@ -4,4 +4,4 @@ let add = function (a, b) {
 };
 
 // Example usage:
-console.log(add(5, 7)); // This will print 12
+console.log(add(3, 5)); // This will print 8
